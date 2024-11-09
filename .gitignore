@@ -43,5 +43,6 @@ app.*.map.json
 /android/app/release
 
 
+
 #ignore my api key 
 lib\infrastacture\api_key.dart
